@@ -1,0 +1,21 @@
+1. Describan con sus palabras lo que acaban de hacer.
+	Primero se verifico la conexion a internet por medio del comando "ping -c 2 www.digitalhouse.com.ar"
+	Segundo se ingreso a super usuario con el comando su, y posteriormente digitando la contraseña de superusuario
+	Tercero se instala GIT con el comando "apt-get git", al instalarse se verica con el comando "git --version"
+	Cuarto se genera conexion con GitHub utilizando los comandos 'git config --global user.name "usuarioGitHub"' y 'git config --global user.email "E-mailGitHub"'
+	Quinto se clona el repositorio localmente con el comando "git clone LinkDelRepo"
+	Sexto se verifica la rama main y se crea en este nuevo dispositivo la rama propia con el comando "git branch ramaNueva" y lueggo se ingresa a ella con "git checkout ramaNueva" 
+	Septimo se ubica la carpeta de la actividad y dentro de ella se crea carpeta propia de actividad con el comando "mkdir"
+	Octavo se crea este documento con el comando "touch" y luego se igresa con el comando "nano" para contestar el cuestionario
+
+2. Describir para que sirve "apt-get".
+	Este comando sirve para instalar aplicaciones que se encuentrarn en los repositorios de la distribucion del sistema operativo que tenemos.
+
+3. Describir para que sirve "su".
+	"su" es un comando que se utiliza para poder adquirir permisos de Super Usuario, para poder instalar archivos en la root o para modificar archivos instalados en la misma.
+
+4. ¿Les resulto familiar esta forma de conectarse a un equipo?
+	Al principio es algo nuevo y poco amigable, pero conforme se van adquiriendo conocimientos con respecto a los comandos y fucionamiento, se vuelve mas entendible,
+	y hasta divertido el aprender otro tipo de sistema operativo.
+
+

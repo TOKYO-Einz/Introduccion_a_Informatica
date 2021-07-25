@@ -1,0 +1,21 @@
+Programa         puertos
+
+Zoom		 	443/53837
+Discord		 	443/50219
+Google Meet	 	443
+Whatsapp Web	 	5223/3478
+MySql		 	3306
+Git		 	9418
+SSL	   	 	443
+http		 	80/8080/8000
+VirtualBox	 	8080/80
+VPN		 	1723/500/4500
+Microsoft Outlook	25/578
+FTP			20/21
+Microsoft Word		443/49429
+Skype			443/62090
+Epic Games		53/80/99/443/552
+FIFA 21			1935/3478/3659/6000
+Spotify			80/443/445/3445
+TeamViewer		443/80/5938
+Netflix			443
